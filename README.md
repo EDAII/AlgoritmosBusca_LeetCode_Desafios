@@ -24,7 +24,11 @@ Utilizamos Python para resolver os desafios.
 
 ### Exercício 02 - Difícil 
 
+![Screenshot do exercício 34](assets/34_screenshot.png)
+
 ### Exercício 03 - Médio 
+
+![Screenshot do exercício 2156](assets/2156_screenshot.png)
 
 ### Exercício 04 - Médio 
 
