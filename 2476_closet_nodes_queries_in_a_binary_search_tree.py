@@ -38,7 +38,7 @@ class Solution:
             node = stack.pop()
             values.append(node.val)
 
-            # Em seginda, percorremos a subárvore direita.
+            # Em seginda percorremos a subárvore direita.
             node = node.right
 
         '''
@@ -49,7 +49,7 @@ class Solution:
         Para mini:
         - Se values[index] == q, então mini = q.
         - Se index > 0, então mini = values[index - 1].
-        - Senão, não existe elemento < q, então mini = -1.
+        - se index == len(values), não existe elemento ≥ q ⇒ maxi = -1.
         '''
         answers: List[List[int]] = []
 
