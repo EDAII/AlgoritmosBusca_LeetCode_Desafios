@@ -22,15 +22,19 @@ Utilizamos Python para resolver os desafios.
 
 ![Screenshot do exercício 30](assets/30_screenshot.png)
 
-### Exercício 02 - Difícil 
+### Exercício 02 - Difícil - 34. Find First and Last Position of Element in Sorted Array
 
 ![Screenshot do exercício 34](assets/34_screenshot.png)
 
-### Exercício 03 - Médio 
+### Exercício 03 - Médio - 2156. Find Substring With Given Hash Value
 
 ![Screenshot do exercício 2156](assets/2156_screenshot.png)
 
-### Exercício 04 - Médio 
+### Exercício 04 - Médio - 2476. Closest Nodes Queries in a Binary Search Tree
+
+![Screenshot do exercício 2476](assets/2476_screenshot.png)
+
+## Vídeo de apresentação do Trabalho 1
 
 ## Verificação
 
